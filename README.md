@@ -186,5 +186,5 @@ oluşturulmaktadır.
 
 Hilal AKBEN 
 Esra ORUÇ --esraoruc2805@gmail.com
-Elif Seda Demirhan
-Seda Mürütsoy
+Elif Seda DEMİRHAN
+Seda MÜRÜTSOY
